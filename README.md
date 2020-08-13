@@ -49,9 +49,24 @@ He vowed that he'd never smoke.
 ## mon = 示す、警告する
 - admosh / 警告する、忠告する  
 She admonished her son for eating too quickly.
-彼女は警告した。息子の食べるのが早すぎるのを
-
+彼女は警告した。息子の食べるのが早すぎるのを  
 His admonition was of no use to her.
 彼の警告は役にたたなかった。彼女には
+
+- monitor / 学級委員、チェックする、監視する  
+The nurse monitored the patient's pulis.
+その看護師はチェックした。患者の脈を
+
+- demonstrate / 説明する、証明する、デモする  
+They demonstrated for a pay raise.
+彼らはデモした。賃上げの
+
+- summon / 召喚する、呼びつける、命じる
+He summoned the waitress for the bill.  
+彼は呼びつけた。ウェイトレスを。勘定のために。
+
+- muster / 消臭する、奮い起こす、招集、点呼  
+Passengers were mustered to the lifeboats.
+乗客たちは招集された。ライフボートへ
 
 
